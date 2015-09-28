@@ -14,3 +14,5 @@ This project is broken up into two sets of directories containining scripts:
 <li>targetserver - used for one-off node manipulation: drop/bleed
 <li>env - example of menu system used to drive farm manipulation: bleed only
 </ol>
+
+..more to come..
