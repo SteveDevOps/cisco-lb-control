@@ -10,5 +10,7 @@ Control context written in Bash -  used for manipulating a Cisco ACE 4710 load b
 </ol>
 
 This project is broken up into two sets of directories containining scripts:
-targetserver - used for one-off node manipulation: drop/bleed
-env - example of menu system used to drive farm manipulation: bleed only
+<ol>
+<li>targetserver - used for one-off node manipulation: drop/bleed
+<li>env - example of menu system used to drive farm manipulation: bleed only
+</ol>
