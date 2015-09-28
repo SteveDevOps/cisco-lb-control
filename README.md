@@ -11,7 +11,7 @@ Control context written in Bash -  used for manipulating a Cisco ACE 4710 load b
 
 This project is broken up into two sets of directories containining scripts:
 <ol>
-<li>targetserver - used for one-off node manipulation: drop/bleed, cmd files written on the fly
+<li>targetserver - used for one-off rserver/farm manipulation: drop/bleed, cmd files written on the fly
 <li>env - framework for menu system used to drive farm manipulation: bleed only, cmd files hardcoded
 </ol>
 
