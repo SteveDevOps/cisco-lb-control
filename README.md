@@ -5,7 +5,7 @@ Control context written in Bash -  used for manipulating a Cisco ACE 4710 load b
 <ol>
 <li>you have cli access to your Cisco device
 <li>you have access/sudo privs to a linux system with expect installed, and this linux system has route/access (firewall acl) to your target device
-<li>you have a copy of the core expect script provided by Cisco: http://docwiki.cisco.com/wiki/Remote_VTY_Command_Script     <br>Place this in (~/cisco/targetserver and ~/cisco/env)
+<li>***you have a copy of the core expect script provided by Cisco: http://docwiki.cisco.com/wiki/Remote_VTY_Command_Script     <br>Place this in (~/cisco/targetserver and ~/cisco/env)
 <li>you have knowledge of cisco lb interaction - cli or gui and understand lb concepts
 </ol>
 
